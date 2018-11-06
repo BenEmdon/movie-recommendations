@@ -3,6 +3,7 @@ Crowd sourced movie recommendations
 
 ### Genres
 * [Adventure](#adventure)
+* [Action](#action)
 * [Drama](#drama)
 
 ## Adventure
@@ -15,6 +16,8 @@ Crowd sourced movie recommendations
 
 [Hunt for the Wilderpeople](https://www.imdb.com/title/tt4698684/?ref_=nv_sr_2) - This delightful New Zeland adventure will make you laugh, cry, and laugh some more. It's quirky, dark, and pretty wholesome. A must watch for anyone seeking an action adventure comedy.
 
+## Action
+[American Gangster](https://www.imdb.com/title/tt0765429) - An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas, whose real life inspired this partly biographical film. (Editors note: such a sick movie, check it)
 
 [The Princess Bride](https://www.imdb.com/title/tt0093779/?ref_=nv_sr_1) - While home sick in bed, a young boy's grandfather reads him a story called The Princess Bride; a heartwarming tale serving justice and true love.
 
