@@ -6,8 +6,12 @@ Crowd sourced movie recommendations
 * [Adventure](#adventure)
 * [Classics](#classics)
 * [Drama](#drama)
+
+* [Thriller](#thriller)
+
 * [Family](#family)
 * [TV Comedy](#tvComedy)
+
 
 
 ## Action
@@ -58,7 +62,13 @@ Crowd sourced movie recommendations
 
 [V For Vandetta](https://www.imdb.com/title/tt0434409) - In a future British tyranny, a shadowy freedom fighter, known only by the alias of "V", plots to overthrow it with the help of a young woman.
 
+
+
+## Thriller
+[Argo](https://www.imdb.com/title/tt1024648/) - This political thriller from 2012 about an undercover CIA agent rescuing six americans trapped in Iran during the 1979 Tehran hostage crisis will keep you on the edge of your seat, with an occasional laugh thrown in. All based on a true story.
+
 ## TV Comedy
 [Mr. D](https://www.imdb.com/title/tt2128016) - Follows a teacher juggle through being a teacher and deal with his students while trying to maintain his not so cool lifestyle. 
+
 
 
