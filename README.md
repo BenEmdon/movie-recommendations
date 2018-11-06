@@ -2,6 +2,16 @@
 Crowd sourced movie recommendations
 
 ### Genres
+
+* [Adventure](#adventure)
+
+
+* [SuperHero](#SuperHero)
+
+* [Drama](#drama)
+
+
+
 * [Action](#action)
 * [Adventure](#adventure)
 * [Classics](#classics)
@@ -24,6 +34,11 @@ Crowd sourced movie recommendations
 [The Princess Bride](https://www.imdb.com/title/tt0093779/?ref_=nv_sr_1) - While home sick in bed, a young boy's grandfather reads him a story called The Princess Bride; a heartwarming tale serving justice and true love.
 
 [Star Wars: Episode IV - A New Hope](https://www.imdb.com/title/tt0076759/) - Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the evil Darth Vader.
+
+
+
+
+
 
 
 ## Adventure
@@ -50,11 +65,32 @@ Crowd sourced movie recommendations
 ## Classics
 [City of Ember](https://www.imdb.com/title/tt0970411/?ref_=nv_sr_1) - For generations, the people of the City of Ember have flourished in an amazing world of glittering lights. But Ember's once powerful generator is failing... and the great lamps that illuminate the city are starting to flicker.
 
+
+
+
+
+### SuperHero
+[The Dark Knight](https://www.imdb.com/title/tt0468569/) - This is the pinnacle of DC, no, Super Hero Movies. The cast does an amazing job of portraying the characters and the story is just amazing.
+
+
+## Action
+[American Gangster](https://www.imdb.com/title/tt0765429) - An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas, whose real life inspired this partly biographical film. (Editors note: such a sick movie, check it)
+[Equalizer2](https://www.imdb.com/title/tt3766354/) - Robert McCall serves an unflinching justice for the exploited and oppressed, but how far will he go when that is someone he loves?
+
+[The Princess Bride](https://www.imdb.com/title/tt0093779/?ref_=nv_sr_1) - While home sick in bed, a young boy's grandfather reads him a story called The Princess Bride; a heartwarming tale serving justice and true love.
+
+
+[Star Wars: Episode IV - A New Hope](https://www.imdb.com/title/tt0076759/) - Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the evil Darth Vader.
+
+[Hunt for the Wilderpeople](https://www.imdb.com/title/tt4698684/?ref_=nv_sr_2) - This delightful New Zealand adventure will make you laugh, cry, and laugh some more. It's quirky, dark, and pretty wholesome. A must watch for anyone seeking an action adventure comedy.
+
+
 [The Emoji Movie](https://www.imdb.com/title/tt4877122/) - This animated instant classic has it all: action, comedy, romance, comedy. The plot is simple but really makes you think. Fun for the whole family!
 
 [Hunt for the Wilderpeople](https://www.imdb.com/title/tt4698684/?ref_=nv_sr_2) - This delightful New Zealand adventure will make you laugh, cry, and laugh some more. It's quirky, dark, and pretty wholesome. A must watch for anyone seeking an action adventure comedy.
 
 [Star Wars: Episode IV - A New Hope](https://www.imdb.com/title/tt0076759/) - Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the evil Darth Vader.
+
 
 
 ## Drama
