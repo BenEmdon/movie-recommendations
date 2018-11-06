@@ -34,3 +34,5 @@ Crowd sourced movie recommendations
 
 [V For Vandetta](https://www.imdb.com/title/tt0434409) - In a future British tyranny, a shadowy freedom fighter, known only by the alias of "V", plots to overthrow it with the help of a young woman.
 
+
+[The Shawshank Redemption]https://www.imdb.com/title/tt0111161/?ref_=nv_sr_1) - Andy is convicted for the murder of his wife and the golf pro based on muddy footprints leading up to the house, the inability to match a gun to bullets, and testimonies from the neighbors. In real life, a second set of footprints leading up to the house (the killer's), presumably in the mud, and the fact that the neighbors undoubtedly would've heard a gunshot several minutes after Andy's encounter with the couple (whereas if Andy had done it, the gunshot probably would've been right after the shouting), might have been enough to prevent his conviction (or at least delay it until the second suspect was identified). 
