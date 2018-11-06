@@ -4,9 +4,18 @@ Crowd sourced movie recommendations
 ### Genres
 * [Adventure](#adventure)
 
+
 * [SuperHero](#SuperHero)
 
 * [Drama](#drama)
+
+
+* [Action](#action)
+* [Drama](#drama)
+
+## Action
+[Baby Driver](https://www.imdb.com/title/tt3890160/) - A fantastic pairing between music and action, with highs and lows in action, while maintaining a consistent enjoyment throughout the entire film.
+
 
 
 ## Adventure
@@ -22,8 +31,14 @@ Crowd sourced movie recommendations
 
 
 
+
 ### SuperHero
 [The Dark Knight](https://www.imdb.com/title/tt0468569/) - This is the pinnacle of DC, no, Super Hero Movies. The cast does an amazing job of portraying the characters and the story is just amazing.
+
+
+## Action
+[American Gangster](https://www.imdb.com/title/tt0765429) - An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas, whose real life inspired this partly biographical film. (Editors note: such a sick movie, check it)
+[Equalizer2](https://www.imdb.com/title/tt3766354/) - Robert McCall serves an unflinching justice for the exploited and oppressed, but how far will he go when that is someone he loves?
 
 [The Princess Bride](https://www.imdb.com/title/tt0093779/?ref_=nv_sr_1) - While home sick in bed, a young boy's grandfather reads him a story called The Princess Bride; a heartwarming tale serving justice and true love.
 
