@@ -6,6 +6,10 @@ Crowd sourced movie recommendations
 * [Action](#action)
 * [Drama](#drama)
 
+## Action
+[Baby Driver](https://www.imdb.com/title/tt3890160/) - A fantastic pairing between music and action, with highs and lows in action, while maintaining a consistent enjoyment throughout the entire film.
+
+
 ## Adventure
 
 [City of Ember](https://www.imdb.com/title/tt0970411/?ref_=nv_sr_1) - For generations, the people of the City of Ember have flourished in an amazing world of glittering lights. But Ember's once powerful generator is failing... and the great lamps that illuminate the city are starting to flicker.
