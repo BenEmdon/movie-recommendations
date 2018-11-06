@@ -9,6 +9,7 @@ Crowd sourced movie recommendations
 ## Action
 [Baby Driver](https://www.imdb.com/title/tt3890160/) - A fantastic pairing between music and action, with highs and lows in action, while maintaining a consistent enjoyment throughout the entire film.
 
+[Incredibles 2](https://www.imdb.com/title/tt3606756/) - Mr. Incredibles is stuck taking care of the kids while Elastigirl is out saving the world.
 
 ## Adventure
 
