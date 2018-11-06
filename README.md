@@ -31,6 +31,8 @@ Crowd sourced movie recommendations
 
 [Equalizer2](https://www.imdb.com/title/tt3766354/) - Robert McCall serves an unflinching justice for the exploited and oppressed, but how far will he go when that is someone he loves?
 
+[Incredibles 2](https://www.imdb.com/title/tt3606756/) - Mr. Incredibles is stuck taking care of the kids while Elastigirl is out saving the world.
+
 [The Princess Bride](https://www.imdb.com/title/tt0093779/?ref_=nv_sr_1) - While home sick in bed, a young boy's grandfather reads him a story called The Princess Bride; a heartwarming tale serving justice and true love.
 
 [Star Wars: Episode IV - A New Hope](https://www.imdb.com/title/tt0076759/) - Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the evil Darth Vader.
