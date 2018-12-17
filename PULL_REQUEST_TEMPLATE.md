@@ -4,5 +4,5 @@
 - [ ] Has an IMDB link
 - [ ] Has a recommendation summary
 - [ ] No spelling mistakes
-- [ ] Is catagorized into a genre
+- [ ] Is categorized into a genre
 - [ ] Is placed in alphabetical order
