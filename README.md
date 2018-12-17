@@ -3,15 +3,16 @@ Crowd sourced movie recommendations
 
 ### Genres
 
-* [Adventure](#adventure)
-* [SuperHero](#SuperHero)
-* [Drama](#drama)
 * [Action](#action)
+* [Drama](#drama)
 * [Adventure](#adventure)
 * [Classics](#classics)
 * [Drama](#drama)
 * [Thriller](#thriller)
 * [Family](#family)
+* [Horror](#horror)
+* [Sci-Fi](#Sci-Fi)
+* [Fantasy](#fantasy)
 * [TV Comedy](#tv-Comedy)
 
 ## Action
@@ -31,29 +32,19 @@ Crowd sourced movie recommendations
 
 [Star Wars: Episode IV - A New Hope](https://www.imdb.com/title/tt0076759/) - Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the evil Darth Vader.
 
-## Adventure
 [Avengers: Infinity War](https://www.imdb.com/title/tt4154756/) -There have been pretty cool comic-book villains on the big screen, but Thanos is really somebody who can take on multiple superheroes and come out unscathed. As yet, he has only been a presence behind the screen in MCU, pulling the strings, and it is in Infinity War that we will see what he is truly capable of.
 
 [City of Ember](https://www.imdb.com/title/tt0970411/?ref_=nv_sr_1) - For generations, the people of the City of Ember have flourished in an amazing world of glittering lights. But Ember's once powerful generator is failing... and the great lamps that illuminate the city are starting to flicker.
 
 [Hunt for the Wilderpeople](https://www.imdb.com/title/tt4698684/?ref_=nv_sr_2) - This delightful New Zealand adventure will make you laugh, cry, and laugh some more. It's quirky, dark, and pretty wholesome. A must watch for anyone seeking an action adventure comedy.
 
-
-## Drama
-[Incendie](https://www.imdb.com/title/tt0120737/) - Overly slow and melodramatic, this movie is kinda sad. Kinda.
+[The Dark Knight](https://www.imdb.com/title/tt0468569/) - This is the pinnacle of DC, no, Super Hero Movies. The cast does an amazing job of portraying the characters and the story is just amazing.
 
 ## Family
-
 [The LEGO Movie](https://www.imdb.com/title/tt1490017/) - This one is fun, clever, and extremely charming. And all animated in LEGO!
-
-## Adventure
-[Avengers: Infinity War](https://www.imdb.com/title/tt4154756/) -There have been pretty cool comic-book villains on the big screen, but Thanos is really somebody who can take on multiple superheroes and come out unscathed. As yet, he has only been a presence behind the screen in MCU, pulling the strings, and it is in Infinity War that we will see what he is truly capable of.
 
 ## Classics
 [City of Ember](https://www.imdb.com/title/tt0970411/?ref_=nv_sr_1) - For generations, the people of the City of Ember have flourished in an amazing world of glittering lights. But Ember's once powerful generator is failing... and the great lamps that illuminate the city are starting to flicker.
-
-## SuperHero
-[The Dark Knight](https://www.imdb.com/title/tt0468569/) - This is the pinnacle of DC, no, Super Hero Movies. The cast does an amazing job of portraying the characters and the story is just amazing.
 
 ## Drama
 [Hackers](https://www.imdb.com/title/tt0113243/) - Hackers are blamed for making a virus that will capsize five oil tankers.
@@ -64,9 +55,20 @@ Crowd sourced movie recommendations
 
 [V For Vandetta](https://www.imdb.com/title/tt0434409) - In a future British tyranny, a shadowy freedom fighter, known only by the alias of "V", plots to overthrow it with the help of a young woman.
 
+[Incendie](https://www.imdb.com/title/tt0120737/) - Overly slow and melodramatic, this movie is kinda sad. Kinda.
+
+[Secret Life of Walter Mitty](https://www.imdb.com/title/tt0359950/) - When his job along with that of his co-worker are threatened, Walter takes action in the real world embarking on a global journey that turns into an adventure more extraordinary than anything he could have ever imagined. A great movie for daydreamers and anybody that wants to travel.
+
 ## Thriller
 [Argo](https://www.imdb.com/title/tt1024648/) - This political thriller from 2012 about an undercover CIA agent rescuing six americans trapped in Iran during the 1979 Tehran hostage crisis will keep you on the edge of your seat, with an occasional laugh thrown in. All based on a true story.
 
+## Horror
+[Event Horizon](https://www.imdb.com/title/tt0119081/) - A rescue crew investigates a spaceship that disappeared into a black hole and has now returned...with someone or something new on-board. Classic Horror SciFi. The gold standard for the genre.
+
+## Sci-Fi
+[Event Horizon](https://www.imdb.com/title/tt0119081/) - A rescue crew investigates a spaceship that disappeared into a black hole and has now returned...with someone or something new on-board. Classic Horror SciFi. The gold standard for the genre.
+
+## Fantasy
+
 ## TV Comedy
 [Mr. D](https://www.imdb.com/title/tt2128016) - Follows a teacher juggle through being a teacher and deal with his students while trying to maintain his not so cool lifestyle. 
-
