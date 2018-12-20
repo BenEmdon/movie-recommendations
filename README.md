@@ -63,6 +63,8 @@ Crowd sourced movie recommendations
 ## Sci-Fi
 [Event Horizon](https://www.imdb.com/title/tt0119081/) - A rescue crew investigates a spaceship that disappeared into a black hole and has now returned...with someone or something new on-board. Classic Horror SciFi. The gold standard for the genre.
 
+[WALL-E](https://www.imdb.com/title/tt0910970/) - Pixar has stayed true to itself. They did a fantastic job in humanising the story of a garbage collecting robot. It has little to no dialogue, but telling a story non-verbally is always the most-challenging aspect. Much thoughts and effort from the Team.
+
 ## Thriller
 [Argo](https://www.imdb.com/title/tt1024648/) - This political thriller from 2012 about an undercover CIA agent rescuing six americans trapped in Iran during the 1979 Tehran hostage crisis will keep you on the edge of your seat, with an occasional laugh thrown in. All based on a true story.
 
